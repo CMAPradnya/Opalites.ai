@@ -1,0 +1,5 @@
+{
+  "name": "InventoryPro",
+  "description": "Premium inventory management and valuation SaaS for Indian manufacturing and trading businesses.",
+  "requestFramePermissions": ["microphone"]
+}
